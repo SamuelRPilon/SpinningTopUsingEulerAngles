@@ -4,7 +4,7 @@ This project is a simulation of a spinning top in MATLAB that includes linear fr
 
 ## Getting Started
 
-To run the simulation, simply download or clone the repository and open the "spinning_top_simulation.m" file in MATLAB. Input the desired initial conditions, such as the top's mass, moment of inertia, and initial angular velocity. The simulation will then calculate the top's motion over time and output visualizations of its orientation and angular velocity.
+To run the simulation, simply download or clone the repository and open the "main.m" file in MATLAB. Input the desired initial conditions, such as the top's mass, moment of inertia, and initial angular velocity. The simulation will then calculate the top's motion over time and output visualizations of its orientation and angular velocity.
 
 ## Simulation Details
 
@@ -15,6 +15,8 @@ Euler angles are used to represent the top's orientation in three-dimensional sp
 ## Output Visualizations
 
 The simulation outputs visualizations of the top's orientation and angular velocity over time. These visualizations can be used to gain insights into the behavior of spinning tops and the effects of friction on their motion. The output includes plots of the top's orientation as a function of time, as well as its angular velocity.
+![PROJECT2MAIN_01]()
+
 
 ## Applications
 
