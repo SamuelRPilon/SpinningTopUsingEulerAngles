@@ -15,7 +15,10 @@ Euler angles are used to represent the top's orientation in three-dimensional sp
 ## Output Visualizations
 
 The simulation outputs visualizations of the top's orientation and angular velocity over time. These visualizations can be used to gain insights into the behavior of spinning tops and the effects of friction on their motion. The output includes plots of the top's orientation as a function of time, as well as its angular velocity.
-![PROJECT2MAIN_01](https://github.com/SamuelRPilon/SpinningTopUsingEulerAngles/blob/main/Assets/PROJECT2MAIN_01.png)
+
+<p align="center">
+  <img src="https://github.com/SamuelRPilon/SpinningTopUsingEulerAngles/blob/main/Assets/PROJECT2MAIN_01.png" alt="Spinning Top Simulation">
+</p>
 
 
 ## Applications
